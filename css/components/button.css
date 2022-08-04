@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+/* Your button CSS file */
+.btn-medium {
+  background-color: white;
+  color: #999999;
+  border: 0.8px solid #999999;
+  border-radius: 24px;
+  padding: 12px 24px;
+  opacity: 0.6;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.btn-medium:hover {
+  color: #999999;
+  opacity: 1;
+}
+
+.btn-treehouse {
+  background-color: #6AD58B;
+  color: white;
+  font-weight: bold;
+  padding: 12px 24px;
+  border-radius: 6px;
+  display: inline-block;
+}
+
+.btn-treehouse:hover {
+  background-color: #3ac162;
+}
+
+.btn-pink {
+  padding: 12px 44px;
+  border: 0.8px solid #FFC2B4;
+  color: white;
+  border-radius: 10px;
+  display: inline-block;
+  background-color: #FFC2B4;
+  font-weight: bold;
+}
+
+.btn-pink:hover {
+  color: #FFC2B4;
+  background-color: white;
+}
